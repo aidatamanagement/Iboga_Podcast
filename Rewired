@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>REWIRED: THE IBOGAINE EXPERIENCE</title>
+    <link>https://theibogainstitute.org</link>
+    <language>en-us</language>
+    <description>Rewired: The Ibogaine Experience shares real stories from patients and families who have experienced ibogaine therapy for PTSD, addiction, Parkinson's disease, and other conditions.
+Brought to you by IBOGA Wellness Institute.
+
+Every week, you'll hear honest conversations about struggle, recovery, and what happens after treatment. Veterans with PTSD, people overcoming addiction, patients with Parkinson's experiencing symptom improvements, and the family members who supported them through the decision.
+
+These are authentic stories backed by research. No false promises. No wellness industry marketing. Just real people sharing what worked when traditional treatments failed.
+
+If you're researching options for someone you love, or seeking answers for yourself, you're not alone.
+
+New episodes every week. Real stories. Real outcomes. Real hope.</description>
+
+    <!-- Set this to the final public URL where THIS RSS XML is hosted -->
+    <atom:link href="https://raw.githubusercontent.com/aidatamanagement/Iboga_Podcast/main/Rewired.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Recommended metadata -->
+    <lastBuildDate>Wed, 03 Dec 2025 10:15:00 -0500</lastBuildDate>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- Spotify reads iTunes podcast tags -->
+    <itunes:author>Sarah Mitchell</itunes:author>
+    <itunes:summary>Sarah Mitchell has personal experience researching treatments for a loved one at 2am. She knows what it's like to be exhausted, hopeful, and trying to separate science from marketing. After seeing the real results ibogaine offers, Sarah brings you the research and shares authentic experiences from people who have walked this path.
+Sarah speaks to you as a peer, not an expert. She's been where you are.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+
+    <itunes:owner>
+      <itunes:name>Shubakar Poda</itunes:name>
+      <itunes:email>hello@aidatamanagement.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:category text="Technology"/>
+
+    <!-- Prefer hosting your own cover art long-term, but this URL is syntactically fine -->
+    <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/Rewired%20v3.jpg"/>
+
+    <!-- Optional nice-to-haves -->
+    <itunes:subtitle>Supabase-hosted podcast feed test</itunes:subtitle>
+    <itunes:keywords>supabase, podcast, testing, aidm</itunes:keywords>
+
+
+
+  
+ 
+    
+
+  
+  
+    <item>
+      <title><![CDATA[The GDNF Connection: How Ibogaine Triggers Brain Repair in Parkinson's Disease]]></title>
+      <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheGDNFConnectionHowIbogaineTriggersBrainRepairinParkinsonsDisease_Episode_Image.jpeg" />
+      <description><![Research indicates that a specific dose of ibogaine can increase GDNF, a critical brain repair protein, by up to twelve-fold in the Ventral Tegmental Area and six-fold in the Substantia Nigra—the very regions ravaged by Parkinson's disease. These findings are foundational to the profound changes our clients experience.
+
+This scientific discovery translates into genuine hope and significant improvements for millions. Just like Michael, a 62-year-old former engineer who battled Parkinson's for a decade, facing increasing tremors and stiffness that stole his independence, clients are discovering a path forward. He came to us after conventional treatments offered little more than symptom management, desperate for an alternative.
+
+Parkinson's affects over a million people in the U.S. alone, a number projected to increase by 60% in the next two decades. It's the second most common neurodegenerative disease after Alzheimer's. For too long, the conventional wisdom has been that Parkinson's is irreversible, a progressive decline that can only be managed, not halted or reversed. Standard treatments like Levodopa offer temporary relief, but often come with debilitating side effects and diminish in efficacy over time, leaving clients and their families desperate for something more.
+
+The core problem in Parkinson's is the loss of dopamine-producing neurons. This is where the GDNF connection becomes so pivotal. GDNF stands for Glial Cell Line-Derived Neurotrophic Factor, and it's a naturally occurring protein that acts like a guardian and restorer for these vital dopamine neurons. It helps them survive, thrive, and even regenerate. Previous attempts to deliver GDNF directly to the brain were invasive and inconsistent, using gene therapy or direct brain infusions that often failed to provide consistent, widespread benefit.
+
+The breakthrough is that ibogaine naturally stimulates the brain's own GDNF production. Studies show that a specific dosage of ibogaine leads to a twelve-fold increase of GDNF in the Ventral Tegmental Area and a six-fold increase in the Substantia Nigra. These are precisely the brain regions where dopamine neurons degenerate in Parkinson's. This means ibogaine offers a non-invasive way to boost the brain's inherent protective and restorative mechanisms, directly addressing the underlying neurological damage, not just masking symptoms. Ibogaine crosses the blood-brain barrier and activates cellular pathways that upregulate GDNF expression, essentially telling the brain to start repairing itself.
+
+The clinical evidence is building. Ambio Life Sciences launched one of the world's first clinical ibogaine neuroregenerative programs, treating clients with conditions like Parkinson's, MS, and essential tremor. One specific retreat program with thirty Parkinson's clients reported an average of 70% reduction in Parkinson's severity by the end of their fourteen-day program. What's truly remarkable is the rapid response; many clients experienced a 50% or more symptom reduction within just three to four days. Our client Michael experienced this firsthand. His tremors, which had made daily tasks almost impossible, significantly subsided, and his mobility improved noticeably within the first week of his treatment. Beyond motor symptoms like tremor and rigidity, clients report improvements in non-motor symptoms such as eyesight, neuropathic pain, sleep quality, anxiety, and mood. The sustained benefit comes, in part, from noribogaine, a metabolite of ibogaine that remains active in the body for months, continuing to provide therapeutic effects and neuroplasticity.
+
+Ibogaine's effectiveness where single-mechanism drugs often fail stems from its multi-system approach. First, it directly modulates the dopamine system, addressing the core deficit in Parkinson's. Second, it has powerful neuroprotective properties, potentially slowing or even reversing disease progression. Third, it enhances neuroplasticity, helping the brain form new, healthy pathways. And fourth, it offers anti-inflammatory effects, reducing neuroinflammation which is increasingly understood to play a role in Parkinson's.
+
+For clients with Parkinson's, the treatment protocol is carefully optimized to account for physical challenges. This can involve a specific loading dose of ibogaine, followed by microdosing for maintenance, which uses very small amounts of the substance to sustain benefits with minimal psychoactive effects. Throughout this, safety is paramount. We adhere to rigorous medical supervision and protocols, including 24/7 medical monitoring, comprehensive cardiac surveillance, and co-administration of magnesium for heart protection. This meticulous approach ensures that a powerful compound is delivered as breakthrough medicine.
+
+For clients like Michael, this means hope where hope was once lost. While we are not claiming a cure, we are seeing measurable, significant improvements in what was previously considered an irreversible condition. This shift from managing decline to supporting regeneration is profound. Ongoing research at institutions like Dalhousie University, alongside pharmaceutical development of compounds like CKBR-12, continues to validate ibogaine's potential. Provisional patents are even being filed for methods that provide rapid symptom reduction in neurodegenerative disorders. For millions affected by Parkinson's, ibogaine offers not just symptom management, but genuine hope for a better quality of life.]]></description>
+      <content:encoded><![Research indicates that a specific dose of ibogaine can increase GDNF, a critical brain repair protein, by up to twelve-fold in the Ventral Tegmental Area and six-fold in the Substantia Nigra—the very regions ravaged by Parkinson's disease. These findings are foundational to the profound changes our clients experience.
+
+This scientific discovery translates into genuine hope and significant improvements for millions. Just like Michael, a 62-year-old former engineer who battled Parkinson's for a decade, facing increasing tremors and stiffness that stole his independence, clients are discovering a path forward. He came to us after conventional treatments offered little more than symptom management, desperate for an alternative.
+
+Parkinson's affects over a million people in the U.S. alone, a number projected to increase by 60% in the next two decades. It's the second most common neurodegenerative disease after Alzheimer's. For too long, the conventional wisdom has been that Parkinson's is irreversible, a progressive decline that can only be managed, not halted or reversed. Standard treatments like Levodopa offer temporary relief, but often come with debilitating side effects and diminish in efficacy over time, leaving clients and their families desperate for something more.
+
+The core problem in Parkinson's is the loss of dopamine-producing neurons. This is where the GDNF connection becomes so pivotal. GDNF stands for Glial Cell Line-Derived Neurotrophic Factor, and it's a naturally occurring protein that acts like a guardian and restorer for these vital dopamine neurons. It helps them survive, thrive, and even regenerate. Previous attempts to deliver GDNF directly to the brain were invasive and inconsistent, using gene therapy or direct brain infusions that often failed to provide consistent, widespread benefit.
+
+The breakthrough is that ibogaine naturally stimulates the brain's own GDNF production. Studies show that a specific dosage of ibogaine leads to a twelve-fold increase of GDNF in the Ventral Tegmental Area and a six-fold increase in the Substantia Nigra. These are precisely the brain regions where dopamine neurons degenerate in Parkinson's. This means ibogaine offers a non-invasive way to boost the brain's inherent protective and restorative mechanisms, directly addressing the underlying neurological damage, not just masking symptoms. Ibogaine crosses the blood-brain barrier and activates cellular pathways that upregulate GDNF expression, essentially telling the brain to start repairing itself.
+
+The clinical evidence is building. Ambio Life Sciences launched one of the world's first clinical ibogaine neuroregenerative programs, treating clients with conditions like Parkinson's, MS, and essential tremor. One specific retreat program with thirty Parkinson's clients reported an average of 70% reduction in Parkinson's severity by the end of their fourteen-day program. What's truly remarkable is the rapid response; many clients experienced a 50% or more symptom reduction within just three to four days. Our client Michael experienced this firsthand. His tremors, which had made daily tasks almost impossible, significantly subsided, and his mobility improved noticeably within the first week of his treatment. Beyond motor symptoms like tremor and rigidity, clients report improvements in non-motor symptoms such as eyesight, neuropathic pain, sleep quality, anxiety, and mood. The sustained benefit comes, in part, from noribogaine, a metabolite of ibogaine that remains active in the body for months, continuing to provide therapeutic effects and neuroplasticity.
+
+Ibogaine's effectiveness where single-mechanism drugs often fail stems from its multi-system approach. First, it directly modulates the dopamine system, addressing the core deficit in Parkinson's. Second, it has powerful neuroprotective properties, potentially slowing or even reversing disease progression. Third, it enhances neuroplasticity, helping the brain form new, healthy pathways. And fourth, it offers anti-inflammatory effects, reducing neuroinflammation which is increasingly understood to play a role in Parkinson's.
+
+For clients with Parkinson's, the treatment protocol is carefully optimized to account for physical challenges. This can involve a specific loading dose of ibogaine, followed by microdosing for maintenance, which uses very small amounts of the substance to sustain benefits with minimal psychoactive effects. Throughout this, safety is paramount. We adhere to rigorous medical supervision and protocols, including 24/7 medical monitoring, comprehensive cardiac surveillance, and co-administration of magnesium for heart protection. This meticulous approach ensures that a powerful compound is delivered as breakthrough medicine.
+
+For clients like Michael, this means hope where hope was once lost. While we are not claiming a cure, we are seeing measurable, significant improvements in what was previously considered an irreversible condition. This shift from managing decline to supporting regeneration is profound. Ongoing research at institutions like Dalhousie University, alongside pharmaceutical development of compounds like CKBR-12, continues to validate ibogaine's potential. Provisional patents are even being filed for methods that provide rapid symptom reduction in neurodegenerative disorders. For millions affected by Parkinson's, ibogaine offers not just symptom management, but genuine hope for a better quality of life.]]></content:encoded>
+      <guid isPermaLink="false">TheGDNFConnectionHowIbogaineTriggersBrainRepairinParkinsonsDisease</guid>
+      <pubDate>Mon, 15 Dec 2025 17:27:10 GMT</pubDate>
+      <enclosure
+        url="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/TheGDNFConnectionHowIbogaineTriggersBrainRepairinParkinsonsDisease.mp3"
+        length="12345678"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+  </channel>
+</rss>
