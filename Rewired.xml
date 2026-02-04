@@ -18,7 +18,9 @@ These are authentic stories backed by research. No false promises. No wellness i
     
 If you're researching options for someone you love, or seeking answers for yourself, you're not alone.
     
-New episodes every week. Real stories. Real outcomes. Real hope.</description>
+New episodes every week. Real stories. Real outcomes. Real hope.
+    
+Learn more: https://theibogainstitute.org</description>
 
     <!-- Set this to the final public URL where THIS RSS XML is hosted -->
     <atom:link href="https://raw.githubusercontent.com/aidatamanagement/Iboga_Podcast/main/Rewired.xml" rel="self" type="application/rss+xml"/>
@@ -41,7 +43,7 @@ Sarah speaks to you as a peer, not an expert. She's been where you are.</itunes:
     <itunes:category text="Technology"/>
 
     <!-- Prefer hosting your own cover art long-term, but this URL is syntactically fine -->
-    <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/Rewired%20v3.jpg"/>
+    <itunes:image href="https://oimqzyfmglyhljjuboek.supabase.co/storage/v1/object/public/IBoga_Podcast_Files/Rewired%20by%20Iboga%20Wellness%20Institute%20Main%20banner.jpg"/>
 
     <!-- Optional nice-to-haves -->
     <itunes:subtitle>Supabase-hosted podcast feed test</itunes:subtitle>
