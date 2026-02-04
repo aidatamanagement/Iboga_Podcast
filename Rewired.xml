@@ -5,10 +5,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   <channel>
-    <title>REWIRED: THE IBOGAINE EXPERIENCE</title>
+    <title>Rewired: The Ibogaine Experience</title>
     <link>https://theibogainstitute.org</link>
     <language>en-us</language>
-    <description>Rewired: The Ibogaine Experience shares real stories from patients and families who have experienced ibogaine therapy for PTSD, addiction, Parkinson's disease, and other conditions.
+    <description>Welcome to 'Rewired: The Ibogaine Experience,' an intimate journey into the lives transformed by ibogaine therapy. Join us for powerful conversations with patients, families, and practitioners from The Iboga Wellness Institute as they share the real stories behind their healing. From veterans battling PTSD to those overcoming addiction and Parkinson's patients finding relief, discover the profound moments that led them to this groundbreaking treatment. Our podcast explores the intersection of cutting-edge research and personal recovery, revealing ibogaine's potential as a catalyst for genuine transformation when conventional medicine falls short.
     
 Brought to you by IBOGA Wellness Institute.
     
@@ -18,7 +18,7 @@ These are authentic stories backed by research. No false promises. No wellness i
     
 If you're researching options for someone you love, or seeking answers for yourself, you're not alone.
     
-New episodes every week. Real stories. Real outcomes. Real hope.
+New episodes. Real stories. Real outcomes. Real hope.
     
 Learn more: https://theibogainstitute.org</description>
 
@@ -30,7 +30,7 @@ Learn more: https://theibogainstitute.org</description>
     <itunes:type>episodic</itunes:type>
 
     <!-- Spotify reads iTunes podcast tags -->
-    <itunes:author>Sarah Mitchell</itunes:author>
+    <itunes:author>The Iboga Wellness Institute</itunes:author>
     <itunes:summary>Sarah Mitchell has personal experience researching treatments for a loved one at 2am. She knows what it's like to be exhausted, hopeful, and trying to separate science from marketing. After seeing the real results ibogaine offers, Sarah brings you the research and shares authentic experiences from people who have walked this path.
 Sarah speaks to you as a peer, not an expert. She's been where you are.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
